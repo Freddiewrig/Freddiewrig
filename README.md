@@ -31,12 +31,15 @@ A concise profile: full‑stack developer, chess enthusiast, and builder of clea
 - Code Analyzer — tooling for algorithm performance
 
 ## ✉️ Connect
+
 <div align="center">
-[![X](https://img.shields.io/badge/♟_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_writerace)
-[![LinkedIn](https://img.shields.io/badge/♔_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilfred-gichuru)
-[![Email](https://img.shields.io/badge/♕_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thecollegeace1@gmail.com)
-[![Chess.com](https://img.shields.io/badge/♘_CHESS.COM-629924?style=for-the-badge&logo=chess.com&logoColor=white)](https://chess.com)
-[![Lichess](https://img.shields.io/badge/♗_LICHESS-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org)
+
+![X](https://img.shields.io/badge/♟_X-000000?style=for-the-badge&logo=x&logoColor=white)  
+![LinkedIn](https://img.shields.io/badge/♔_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
+![Email](https://img.shields.io/badge/♕_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+![Chess.com](https://img.shields.io/badge/♘_CHESS.COM-629924?style=for-the-badge&logo=chess.com&logoColor=white)  
+![Lichess](https://img.shields.io/badge/♗_LICHESS-000000?style=for-the-badge&logo=lichess&logoColor=white)
+
 </div>
 
 ---
